@@ -1,5 +1,5 @@
 # Android-Mining
-Quick installation of mining on Android Phones
+Quick installation of mining on Android Phones, this file is coded for mining Versus Coin from versuspool (port 9998), for wallet: RVoFgkT7pfPuWVtk2gDLkbhF1HWTgMBgUx 
 
 ## No support
 - Although the installation procedure is considered doable for people that have zero to little Linux knowledge, I do **not** provide any support to users that that mess up as a result of lack of knowledge.
